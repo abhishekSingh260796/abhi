@@ -5,8 +5,8 @@ matar paneer
 shahi paneer
 kadai paneer
 lassi
-rabdi doodh
-badaam milk
+rabdi malai
+saadha parantha
 icecream shake
 
 
@@ -17,4 +17,4 @@ ThankYou!
 
 done
 
-Now there will bw conflict
+Final Copy
