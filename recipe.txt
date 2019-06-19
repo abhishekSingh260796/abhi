@@ -2,6 +2,10 @@ this is the file for recipes
 
 chilli chaap
 matar paneer
+shahi paneer
+kadai paneer
+
+pizza
 
 
 ThankYou!
